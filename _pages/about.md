@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a xxx at . 
+I am a graduate student . 
 
 
 A data-driven personal website
