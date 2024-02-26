@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Harbin Institute of Technology, Shenzhen"
 date: 2022
-location: "City, Country"
+location: "Shenzhen, China"
 ---
 
 Tutor and marker
