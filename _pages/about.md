@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in Mechanical Engineering at Harbin Institute of Technology, Shenzhen, under the supervision of Hailin Huang. 
+I am a graduate student in Mechanical Engineering at Harbin Institute of Technology, Shenzhen, under the supervision of Hailin Huang. Before that, I graduated from Dalian University of Technology where I received my Bachelor of Engineering in Mechanical Engineering. 
 
-
- I graduated from Texas Tech University where I received my Bachelor of Science in Mechanical Engineering and minor in Computer Science and Mathematics.
+My research interests
